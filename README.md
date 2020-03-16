@@ -1,3 +1,3 @@
-showing how to use React hooks to fetch and display data CoronaVid disease 
+Use React hooks to fetch and display data CoronaVid disease 
 
 
